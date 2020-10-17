@@ -7,4 +7,4 @@
 
 
 ## Animations Libraries
-* [Greensock](#https://greensock.com/)
+* [Greensock](https://greensock.com/)
