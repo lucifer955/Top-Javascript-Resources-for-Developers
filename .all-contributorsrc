@@ -17,15 +17,6 @@
       ]
     },
     {
-      "login": "sachith",
-      "name": "sachith",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/49277077?v=4",
-      "profile": "https://github.com/sachith",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "sachith-1",
       "name": "Sachith",
       "avatar_url": "https://avatars2.githubusercontent.com/u/40508640?v=4",
@@ -43,6 +34,33 @@
         "doc",
         "ideas",
         "example"
+      ]
+    },
+    {
+      "login": "yasfer95",
+      "name": "yasfer95",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59219729?v=4",
+      "profile": "https://github.com/yasfer95",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DilshanUdawaththa",
+      "name": "Dilshan Udawaththa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37608891?v=4",
+      "profile": "https://github.com/DilshanUdawaththa",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DasithDeelaka",
+      "name": "Dasith Deelaka",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37569547?v=4",
+      "profile": "http://www.uwu.ac.lk",
+      "contributions": [
+        "doc"
       ]
     }
   ],
