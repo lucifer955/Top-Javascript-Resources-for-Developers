@@ -26,6 +26,13 @@
 | ------------- | ------------- |
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
 
+## Other Libraries
+### Printing library
+
+| Website | Description |
+| ------------- | ------------- |
+|[Print.js](https://printjs.crabbly.com//)	| Print.js is a small yet powerful JavaScript library which enables you to preview and print any elements (PDF, HTML, IMAGE, DYNAMIC DATA) on the webpage. [More details](https://gist.github.com/ViduraRandika/64e95ebf28dfece81b4d57b1f944e425) |
+
 
 ## Contributors ✨
 
