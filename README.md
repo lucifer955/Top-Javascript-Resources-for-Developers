@@ -4,7 +4,7 @@
 * [Animation Libraries](#animation-libraries)
 
 
-## Animations Libraries
+## Animation Libraries
 
 | Website  | Description |
 | ------------- | ------------- |
