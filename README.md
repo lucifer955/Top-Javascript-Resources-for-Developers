@@ -22,6 +22,11 @@
 ## Frameworks
 ### Frontend Frameworks
 
+| Website | Description |
+| ------------- | ------------- |
+|[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
