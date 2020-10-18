@@ -26,6 +26,7 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
+|[React](https://www.google.com) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
 
 ## Other Libraries
 ### Printing library
