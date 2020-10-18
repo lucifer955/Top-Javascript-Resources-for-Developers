@@ -41,6 +41,12 @@
 | ------------- | ------------- |
 |[D3js](https://d3js.org/)	| D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of Scalable Vector Graphics, HTML5, and Cascading Style Sheets standards. It is the successor to the earlier Protovis framework. You can find it's repository from [here.](https://github.com/d3/d3) |
 
+### Raphaël
+
+| Website | Description |
+| ------------- | ------------- |
+|[Raphaël](http://raphaeljs.com/)	| Rapahel.js is a javascript library designed specifically for artists and graphic designers. It is the brush that you can use to apply images directly to the canvas of the browser. Find more from [here.](https://dmitrybaranovskiy.github.io/raphael/) |
+
 
 ## Contributors ✨
 
