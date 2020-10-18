@@ -1,5 +1,7 @@
 # Top-Javascript-Resources-for-Developers
 
+Please read the [Contribution-Guideline](./contribution.md)
+
 ## Table of contents
 * [Animation Libraries](#animation-libraries)
 
