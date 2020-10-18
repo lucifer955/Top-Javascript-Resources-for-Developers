@@ -30,6 +30,7 @@
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
 |[VueJs](https://v3.vuejs.org/) | VueJs is a progressive framework for building user interfaces. It is perfectly capable of powering sophisticated Single-Page Applications |
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
+|[Ember](https://emberjs.com//) | Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device. |
 
 ### Frontend Frameworks for mobile application development
 
