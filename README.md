@@ -48,6 +48,14 @@
 | ------------- | ------------- |
 |[D3js](https://d3js.org/)	| D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of Scalable Vector Graphics, HTML5, and Cascading Style Sheets standards. It is the successor to the earlier Protovis framework. You can find it's repository from [here.](https://github.com/d3/d3) |
 |[Raphaël](http://raphaeljs.com/)	| Rapahel.js is a javascript library designed specifically for artists and graphic designers. It is the brush that you can use to apply images directly to the canvas of the browser. Find more from [here.](https://dmitrybaranovskiy.github.io/raphael/) |
+|[Leaflet](https://leafletjs.com/)	| Leaflet is an open-source JavaScript library for interactive web maps. It's lightweight, simple, and flexible, and is probably the most popular open-source mapping library at the moment. You can find it's github repository from [here](https://github.com/Leaflet/Leaflet) and documentation from [here.](https://leafletjs.com/reference-1.7.1.html) |
+
+### Date and Time localization library
+
+| Website | Description |
+| ------------- | ------------- |
+|[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
+
 
 ## Contributors ✨
 
