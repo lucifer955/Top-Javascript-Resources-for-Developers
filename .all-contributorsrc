@@ -15,6 +15,15 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "sachith",
+      "name": "sachith",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/49277077?v=4",
+      "profile": "https://github.com/sachith",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
