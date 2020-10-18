@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -58,6 +58,14 @@
 | ------------- | ------------- |
 |[D3js](https://d3js.org/)	| D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of Scalable Vector Graphics, HTML5, and Cascading Style Sheets standards. It is the successor to the earlier Protovis framework. You can find it's repository from [here.](https://github.com/d3/d3) |
 |[Raphaël](http://raphaeljs.com/)	| Rapahel.js is a javascript library designed specifically for artists and graphic designers. It is the brush that you can use to apply images directly to the canvas of the browser. Find more from [here.](https://dmitrybaranovskiy.github.io/raphael/) |
+|[Leaflet](https://leafletjs.com/)	| Leaflet is an open-source JavaScript library for interactive web maps. It's lightweight, simple, and flexible, and is probably the most popular open-source mapping library at the moment. You can find it's github repository from [here](https://github.com/Leaflet/Leaflet) and documentation from [here.](https://leafletjs.com/reference-1.7.1.html) |
+
+### Date and Time localization library
+
+| Website | Description |
+| ------------- | ------------- |
+|[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
+
 
 ## Contributors ✨
 
@@ -70,9 +78,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=lucifer955" title="Documentation">📖</a> <a href="#ideas-lucifer955" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/pulls?q=is%3Apr+reviewed-by%3Alucifer955" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/sachithsiriwardana/"><img src="https://avatars2.githubusercontent.com/u/40508640?v=4" width="100px;" alt=""/><br /><sub><b>Sachith</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=sachith-1" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=ViduraRandika" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=ViduraRandika" title="Documentation">📖</a> <a href="#ideas-ViduraRandika" title="Ideas, Planning, & Feedback">🤔</a> <a href="#example-ViduraRandika" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/yasfer95"><img src="https://avatars0.githubusercontent.com/u/59219729?v=4" width="100px;" alt=""/><br /><sub><b>yasfer95</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=yasfer95" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.uwu.ac.lk"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DasithDeelaka" title="Documentation">📖</a></td>
+
   </tr>
 </table>
 
