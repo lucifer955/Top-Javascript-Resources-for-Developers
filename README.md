@@ -22,12 +22,20 @@
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
 
 ## Frameworks
+
 ### Frontend Frameworks
 
 | Website | Description |
 | ------------- | ------------- |
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
+|[VueJs](https://v3.vuejs.org/) | VueJs is a progressive framework for building user interfaces. It is perfectly capable of powering sophisticated Single-Page Applications |
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
+
+### Frontend Frameworks for mobile application development
+
+| Website | Description |
+| ------------- | ------------- |
+|[React Native](https://reactnative.dev/)	| Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. |
 
 ### Backend Frameworks
 
@@ -35,7 +43,9 @@
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
 
+
 ## Other Libraries
+
 ### Printing library
 
 | Website | Description |
