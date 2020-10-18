@@ -37,7 +37,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=lucifer955" title="Documentation">📖</a> <a href="#ideas-lucifer955" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/pulls?q=is%3Apr+reviewed-by%3Alucifer955" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/sachith"><img src="https://avatars3.githubusercontent.com/u/49277077?v=4" width="100px;" alt=""/><br /><sub><b>sachith</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=sachith" title="Documentation">📖</a></td>
   </tr>
 </table>
 
