@@ -27,6 +27,7 @@
 | ------------- | ------------- |
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
 |[React](https://www.google.com) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
+|[VueJs](https://v3.vuejs.org/) | VueJs is a progressive framework for building user interfaces. It is perfectly capable of powering sophisticated Single-Page Applications |
 
 ## Other Libraries
 ### Printing library
