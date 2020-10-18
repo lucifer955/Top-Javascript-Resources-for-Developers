@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -31,6 +31,7 @@
 |[VueJs](https://v3.vuejs.org/) | VueJs is a progressive framework for building user interfaces. It is perfectly capable of powering sophisticated Single-Page Applications |
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
 |[Ember](https://emberjs.com//) | Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device. |
+|[Backbone.js](https://backbonejs.org/) | Backbone is a JavaScript framework based on MVC architecture for building single page applications |
 
 ### Frontend Frameworks for mobile application development
 
@@ -68,6 +69,10 @@
 | ------------- | ------------- |
 |[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
 
+### Learning 
+| Website | Description |
+| ------------- | ------------- |
+|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
 
 ## Contributors ✨
 
@@ -84,7 +89,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/yasfer95"><img src="https://avatars0.githubusercontent.com/u/59219729?v=4" width="100px;" alt=""/><br /><sub><b>yasfer95</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=yasfer95" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.uwu.ac.lk"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DasithDeelaka" title="Documentation">📖</a></td>
-
+    <td align="center"><a href="http://fawazsiddiqi.github.io"><img src="https://avatars1.githubusercontent.com/u/39944853?v=4" width="100px;" alt=""/><br /><sub><b>Fawaz Siddiqi</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=fawazsiddiqi" title="Documentation">📖</a></td>
   </tr>
 </table>
 
