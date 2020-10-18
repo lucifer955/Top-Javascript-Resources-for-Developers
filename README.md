@@ -9,6 +9,7 @@
 * [Animation Libraries](#animation-libraries)
 * [Frameworks](#frameworks)
   * [Frontend Frameworks](#frontend-frameworks)
+* [Other Libraries](#other-libraries)
 
 
 ## Animation Libraries
