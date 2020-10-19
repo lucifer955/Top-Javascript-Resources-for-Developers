@@ -80,6 +80,11 @@
 | ------------- | ------------- |
 |[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
 
+### E-Books
+| E-Book Name | Description |
+| ------------- | ------------- |
+|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
