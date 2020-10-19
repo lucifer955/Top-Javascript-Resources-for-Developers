@@ -22,6 +22,7 @@
 | [Greensock](https://greensock.com/)  |  lets you craft high-performance animations that work in every major browser  |
 | [Three.js](https://threejs.org/)  | Three. js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL  |
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
+| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
 
 ## Frameworks
 
@@ -48,8 +49,7 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
-|[Next.Js](https://nextjs.org/)	| Next.js is a small JavaScript framework primarily used as a back-end for developing applications in React framework |
-
+|[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
 
 ## Other Libraries
 
