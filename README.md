@@ -43,7 +43,7 @@
 | ------------- | ------------- |
 |[React Native](https://reactnative.dev/)	| Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. |
 [Ionic](https://ionicframework.com/)	| Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies — HTML, CSS, and JavaScript — with integrations for popular frameworks like Angular and React. |
-[NativeScript](https://nativescript.org/)	| Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies — HTML, CSS, and JavaScript — with integrations for popular frameworks like Angular and React. |
+[NativeScript](https://nativescript.org/)	| Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript. |
 
 
 
