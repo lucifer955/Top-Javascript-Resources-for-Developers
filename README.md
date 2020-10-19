@@ -23,7 +23,6 @@
 | [Three.js](https://threejs.org/)  | Three. js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL  |
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
 | [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
-It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 
 ## Frameworks
 
