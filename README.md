@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -104,6 +104,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/RandilCPiumantha"><img src="https://avatars1.githubusercontent.com/u/56807975?v=4" width="100px;" alt=""/><br /><sub><b>RandilCPiumantha</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=RandilCPiumantha" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sunera-sunilaka-a0ab30193"><img src="https://avatars2.githubusercontent.com/u/34810235?v=4" width="100px;" alt=""/><br /><sub><b>Sunera Sunilaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Sunera-2216" title="Documentation">📖</a></td>
   </tr>
 </table>
 
