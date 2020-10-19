@@ -77,6 +77,11 @@
 | ------------- | ------------- |
 |[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
 
+### An Advanced Mathematics Library For JavaScript
+| Website | Description |
+| ------------- | ------------- |
+|[Math.js](https://mathjs.org/)	|Math.js is an extensive math library for JavaScript. Click [here](https://mathjs.org/docs/index.html) for documentation. |
+
 ## Learning Resources
 ### Websites
 | Website | Description |
