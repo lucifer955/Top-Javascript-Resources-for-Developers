@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -22,6 +22,8 @@
 | [Greensock](https://greensock.com/)  |  lets you craft high-performance animations that work in every major browser  |
 | [Three.js](https://threejs.org/)  | Three. js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL  |
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
+| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. |
+| [ Popmotion](https://popmotion.io/learn/get-started/) | Popmotion is a low-level, functional JavaScript motion library.It allows developers to animate in any JavaScript environment (browser, Node), to any render target (CSS, SVG, Three.js, canvas, etc).
 
 ## Frameworks
 
@@ -34,6 +36,7 @@
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
 |[Ember](https://emberjs.com//) | Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device. |
 |[Backbone.js](https://backbonejs.org/) | Backbone is a JavaScript framework based on MVC architecture for building single page applications |
+|[Aurelia](https://aurelia.io/) | Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps. |
 
 ### Frontend Frameworks for mobile application development
 
@@ -41,13 +44,17 @@
 | ------------- | ------------- |
 |[React Native](https://reactnative.dev/)	| Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. |
 [Ionic](https://ionicframework.com/)	| Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies — HTML, CSS, and JavaScript — with integrations for popular frameworks like Angular and React. |
+[NativeScript](https://nativescript.org/)	| Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript. |
+
+
 
 ### Backend Frameworks
 
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
-
+|[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
+|[Koa](https://koajs.com/)	| Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.  |
 
 ## Other Libraries
 
@@ -71,11 +78,21 @@
 | ------------- | ------------- |
 |[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
 
+### An Advanced Mathematics Library For JavaScript
+| Website | Description |
+| ------------- | ------------- |
+|[Math.js](https://mathjs.org/)	|Math.js is an extensive math library for JavaScript. Click [here](https://mathjs.org/docs/index.html) for documentation. |
+
 ## Learning Resources
 ### Websites
 | Website | Description |
 | ------------- | ------------- |
 |[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
+
+### E-Books
+| E-Book Name | Description |
+| ------------- | ------------- |
+|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |
 
 ## Contributors ✨
 
@@ -93,6 +110,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.uwu.ac.lk"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DasithDeelaka" title="Documentation">📖</a></td>
     <td align="center"><a href="http://fawazsiddiqi.github.io"><img src="https://avatars1.githubusercontent.com/u/39944853?v=4" width="100px;" alt=""/><br /><sub><b>Fawaz Siddiqi</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=fawazsiddiqi" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RandilCPiumantha"><img src="https://avatars1.githubusercontent.com/u/56807975?v=4" width="100px;" alt=""/><br /><sub><b>RandilCPiumantha</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=RandilCPiumantha" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sunera-sunilaka-a0ab30193"><img src="https://avatars2.githubusercontent.com/u/34810235?v=4" width="100px;" alt=""/><br /><sub><b>Sunera Sunilaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Sunera-2216" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Achiraisuru" title="Documentation">📖</a></td>
   </tr>
 </table>
 
