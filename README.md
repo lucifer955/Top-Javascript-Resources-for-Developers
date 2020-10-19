@@ -34,6 +34,7 @@
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
 |[Ember](https://emberjs.com//) | Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device. |
 |[Backbone.js](https://backbonejs.org/) | Backbone is a JavaScript framework based on MVC architecture for building single page applications |
+|[Aurelia](https://aurelia.io/) | Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps. |
 
 ### Frontend Frameworks for mobile application development
 
