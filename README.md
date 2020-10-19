@@ -22,7 +22,8 @@
 | [Greensock](https://greensock.com/)  |  lets you craft high-performance animations that work in every major browser  |
 | [Three.js](https://threejs.org/)  | Three. js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL  |
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
-| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
+| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. |
+| [ Popmotion](https://popmotion.io/learn/get-started/) | Popmotion is a low-level, functional JavaScript motion library.It allows developers to animate in any JavaScript environment (browser, Node), to any render target (CSS, SVG, Three.js, canvas, etc).
 
 ## Frameworks
 
