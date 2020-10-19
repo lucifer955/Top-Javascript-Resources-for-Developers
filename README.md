@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -11,6 +11,8 @@
   * [Frontend Frameworks](#frontend-frameworks)
   * [Backend Frameworks](#backend-frameworks)
 * [Other Libraries](#other-libraries)
+* [Learning Resources](#learning-resources)
+  * [Websites](#websites)
 
 
 ## Animation Libraries
@@ -22,12 +24,23 @@
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
 
 ## Frameworks
+
 ### Frontend Frameworks
 
 | Website | Description |
 | ------------- | ------------- |
 |[Angular](https://angular.io/)	| AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community |
+|[VueJs](https://v3.vuejs.org/) | VueJs is a progressive framework for building user interfaces. It is perfectly capable of powering sophisticated Single-Page Applications |
 |[React](https://reactjs.org/) | ReactJS is an open-source front-end JavaScript library for building user interfaces or UI components |
+|[Ember](https://emberjs.com//) | Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device. |
+|[Backbone.js](https://backbonejs.org/) | Backbone is a JavaScript framework based on MVC architecture for building single page applications |
+
+### Frontend Frameworks for mobile application development
+
+| Website | Description |
+| ------------- | ------------- |
+|[React Native](https://reactnative.dev/)	| Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. |
+[Ionic](https://ionicframework.com/)	| Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies — HTML, CSS, and JavaScript — with integrations for popular frameworks like Angular and React. |
 
 ### Backend Frameworks
 
@@ -35,7 +48,9 @@
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
 
+
 ## Other Libraries
+
 ### Printing library
 
 | Website | Description |
@@ -56,6 +71,11 @@
 | ------------- | ------------- |
 |[Moment.js](https://momentjs.com/)	|MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. Click [here](https://github.com/moment/moment) for more details. |
 
+## Learning Resources
+### Websites
+| Website | Description |
+| ------------- | ------------- |
+|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
 
 ## Contributors ✨
 
@@ -68,9 +88,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/lucifer955"><img src="https://avatars2.githubusercontent.com/u/37404014?v=4" width="100px;" alt=""/><br /><sub><b>Nadeera Hashan Kuruppu</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=lucifer955" title="Documentation">📖</a> <a href="#ideas-lucifer955" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/pulls?q=is%3Apr+reviewed-by%3Alucifer955" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/sachithsiriwardana/"><img src="https://avatars2.githubusercontent.com/u/40508640?v=4" width="100px;" alt=""/><br /><sub><b>Sachith</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=sachith-1" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=ViduraRandika" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ViduraRandika"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4" width="100px;" alt=""/><br /><sub><b>ViduraRandika</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=ViduraRandika" title="Documentation">📖</a> <a href="#ideas-ViduraRandika" title="Ideas, Planning, & Feedback">🤔</a> <a href="#example-ViduraRandika" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/yasfer95"><img src="https://avatars0.githubusercontent.com/u/59219729?v=4" width="100px;" alt=""/><br /><sub><b>yasfer95</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=yasfer95" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DilshanUdawaththa" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.uwu.ac.lk"><img src="https://avatars3.githubusercontent.com/u/37569547?v=4" width="100px;" alt=""/><br /><sub><b>Dasith Deelaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=DasithDeelaka" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://fawazsiddiqi.github.io"><img src="https://avatars1.githubusercontent.com/u/39944853?v=4" width="100px;" alt=""/><br /><sub><b>Fawaz Siddiqi</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=fawazsiddiqi" title="Documentation">📖</a></td>
   </tr>
 </table>
 
