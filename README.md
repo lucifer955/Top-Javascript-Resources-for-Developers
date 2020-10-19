@@ -89,6 +89,11 @@
 | ------------- | ------------- |
 |[Math.js](https://mathjs.org/)	|Math.js is an extensive math library for JavaScript. Click [here](https://mathjs.org/docs/index.html) for documentation. |
 
+### Javascript libraries for functional programming
+| Website | Description |
+| ------------- | ------------- |
+|[Lodash](https://lodash.com/)	|Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm. Click [here](https://github.com/lodash/lodash) for more details. |
+
 ## Learning Resources
 ### Websites
 | Website | Description |
