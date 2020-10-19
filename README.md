@@ -50,6 +50,8 @@ It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
+|[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
+
 
 
 ## Other Libraries
