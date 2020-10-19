@@ -7,12 +7,17 @@
 
 ## Table of contents
 * [Animation Libraries](#animation-libraries)
+* [Graphing and Visualizations Libraries](#graphing-and-visualizations-libraries)
 * [Frameworks](#frameworks)
   * [Frontend Frameworks](#frontend-frameworks)
   * [Backend Frameworks](#backend-frameworks)
 * [Other Libraries](#other-libraries)
+  * [An Advanced Mathematics Library For JavaScript](#an-advanced-mathematics-library-for-javascript)
+  * [Date and Time localization Libraries](#date-and-time-localization-libraries)
+  * [Printing Libraries](#printing-libraries)
 * [Learning Resources](#learning-resources)
   * [Websites](#websites)
+  * [E-Books](#e-books)
 
 
 ## Animation Libraries
@@ -58,13 +63,13 @@
 
 ## Other Libraries
 
-### Printing library
+### Printing Libraries
 
 | Website | Description |
 | ------------- | ------------- |
 |[Print.js](https://printjs.crabbly.com//)	| Print.js is a small yet powerful JavaScript library which enables you to preview and print any elements (PDF, HTML, IMAGE, DYNAMIC DATA) on the webpage. [More details](https://gist.github.com/ViduraRandika/64e95ebf28dfece81b4d57b1f944e425) |
 
-### Libraries for Graphing and Visualizations
+### Graphing and Visualizations Libraries
 
 | Website | Description |
 | ------------- | ------------- |
@@ -72,7 +77,7 @@
 |[Raphaël](http://raphaeljs.com/)	| Rapahel.js is a javascript library designed specifically for artists and graphic designers. It is the brush that you can use to apply images directly to the canvas of the browser. Find more from [here.](https://dmitrybaranovskiy.github.io/raphael/) |
 |[Leaflet](https://leafletjs.com/)	| Leaflet is an open-source JavaScript library for interactive web maps. It's lightweight, simple, and flexible, and is probably the most popular open-source mapping library at the moment. You can find it's github repository from [here](https://github.com/Leaflet/Leaflet) and documentation from [here.](https://leafletjs.com/reference-1.7.1.html) |
 
-### Date and Time localization library
+### Date and Time localization Libraries
 
 | Website | Description |
 | ------------- | ------------- |
