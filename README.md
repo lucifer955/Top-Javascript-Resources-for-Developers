@@ -47,7 +47,7 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
-|[Laravel](https://laravel.com//)	| Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things. |
+
 
 
 ## Other Libraries
