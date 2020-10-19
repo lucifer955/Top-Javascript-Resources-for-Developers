@@ -1,18 +1,23 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
 
 ## Table of contents
 * [Animation Libraries](#animation-libraries)
+* [Graphing and Visualizations Libraries](#graphing-and-visualizations-libraries)
 * [Frameworks](#frameworks)
   * [Frontend Frameworks](#frontend-frameworks)
   * [Backend Frameworks](#backend-frameworks)
 * [Other Libraries](#other-libraries)
+  * [An Advanced Mathematics Library For JavaScript](#an-advanced-mathematics-library-for-javascript)
+  * [Date and Time localization Libraries](#date-and-time-localization-libraries)
+  * [Printing Libraries](#printing-libraries)
 * [Learning Resources](#learning-resources)
   * [Websites](#websites)
+  * [E-Books](#e-books)
 
 
 ## Animation Libraries
@@ -22,7 +27,8 @@
 | [Greensock](https://greensock.com/)  |  lets you craft high-performance animations that work in every major browser  |
 | [Three.js](https://threejs.org/)  | Three. js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL  |
 | [Particles.js](https://vincentgarreau.com/particles.js/) | a lightweight JavaScript library for creating particles |
-| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
+| [ Anime.js](https://animejs.com/) | Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. |
+| [ Popmotion](https://popmotion.io/learn/get-started/) | Popmotion is a low-level, functional JavaScript motion library.It allows developers to animate in any JavaScript environment (browser, Node), to any render target (CSS, SVG, Three.js, canvas, etc).
 
 ## Frameworks
 
@@ -54,16 +60,17 @@
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
 |[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
 |[Koa](https://koajs.com/)	| Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.  |
+|[Meteor.Js](https://www.meteor.com/)	| Meteor is one of the most popular JavaScript frameworks, which offers a lot of features for back-end development, front-end rendering, database management, and business logic.  |
 
 ## Other Libraries
 
-### Printing library
+### Printing Libraries
 
 | Website | Description |
 | ------------- | ------------- |
 |[Print.js](https://printjs.crabbly.com//)	| Print.js is a small yet powerful JavaScript library which enables you to preview and print any elements (PDF, HTML, IMAGE, DYNAMIC DATA) on the webpage. [More details](https://gist.github.com/ViduraRandika/64e95ebf28dfece81b4d57b1f944e425) |
 
-### Libraries for Graphing and Visualizations
+### Graphing and Visualizations Libraries
 
 | Website | Description |
 | ------------- | ------------- |
@@ -71,7 +78,7 @@
 |[Raphaël](http://raphaeljs.com/)	| Rapahel.js is a javascript library designed specifically for artists and graphic designers. It is the brush that you can use to apply images directly to the canvas of the browser. Find more from [here.](https://dmitrybaranovskiy.github.io/raphael/) |
 |[Leaflet](https://leafletjs.com/)	| Leaflet is an open-source JavaScript library for interactive web maps. It's lightweight, simple, and flexible, and is probably the most popular open-source mapping library at the moment. You can find it's github repository from [here](https://github.com/Leaflet/Leaflet) and documentation from [here.](https://leafletjs.com/reference-1.7.1.html) |
 
-### Date and Time localization library
+### Date and Time localization Libraries
 
 | Website | Description |
 | ------------- | ------------- |
@@ -113,6 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/RandilCPiumantha"><img src="https://avatars1.githubusercontent.com/u/56807975?v=4" width="100px;" alt=""/><br /><sub><b>RandilCPiumantha</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=RandilCPiumantha" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/sunera-sunilaka-a0ab30193"><img src="https://avatars2.githubusercontent.com/u/34810235?v=4" width="100px;" alt=""/><br /><sub><b>Sunera Sunilaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Sunera-2216" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Achiraisuru" title="Documentation">📖</a></td>
   </tr>
 </table>
 
