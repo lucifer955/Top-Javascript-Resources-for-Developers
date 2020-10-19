@@ -47,6 +47,7 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
+|[Next.Js](https://nextjs.org/)	| Next.js is a small JavaScript framework primarily used as a back-end for developing applications in React framework |
 
 
 ## Other Libraries
