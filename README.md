@@ -1,6 +1,6 @@
 # Top-Javascript-Resources-for-Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Please read the [Contribution-Guidelines](./contribution.md)
@@ -100,12 +100,12 @@
 ### Websites
 | Website | Description |
 | ------------- | ------------- |
-|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
+|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |[JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/DEFAULT.asp) | The programming language for the Site is JavaScript. It is easy to learn JavaScript. From basic to advanced, this tutorial will teach you JavaScript step-by-step. |[JavaScript from basic to advance](https://www.tutorialspoint.com/javascript/index.htm) | JavaScript is a lightweight programming language that has been translated. It is designed for network-centric applications to be developed. It is complementary to Java and is integrated. Since it is combined with HTML, JavaScript is very simple to implement. It is cross-platform and accessible.|
 
 ### E-Books
 | E-Book Name | Description |
 | ------------- | ------------- |
-|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |
+|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) | JavaScript Garden is a growing collection of documents on the JavaScript programming language's most unusual components. It provides advice that non-expert JavaScript programmers can encounter on their endeavors into the depths of the language to avoid common mistakes and subtle bugs, as well as performance problems and bad practices.|
 
 ## Contributors ✨
 
@@ -128,6 +128,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/RandilCPiumantha"><img src="https://avatars1.githubusercontent.com/u/56807975?v=4" width="100px;" alt=""/><br /><sub><b>RandilCPiumantha</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=RandilCPiumantha" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/sunera-sunilaka-a0ab30193"><img src="https://avatars2.githubusercontent.com/u/34810235?v=4" width="100px;" alt=""/><br /><sub><b>Sunera Sunilaka</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Sunera-2216" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Achiraisuru" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Prabath03Dot"><img src="https://avatars1.githubusercontent.com/u/48862955?v=4" width="100px;" alt=""/><br /><sub><b>Prabath96</b></sub></a><br /><a href="https://github.com/lucifer955/Top-Javascript-Resources-for-Developers/commits?author=Prabath03Dot" title="Documentation">📖</a></td>
   </tr>
 </table>
 
