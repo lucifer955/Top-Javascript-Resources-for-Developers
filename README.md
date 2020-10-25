@@ -62,7 +62,12 @@
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
 |[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
 |[Koa](https://koajs.com/)	| Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.  |
-|[Meteor.Js](https://www.meteor.com/)	| Meteor is one of the most popular JavaScript frameworks, which offers a lot of features for back-end development, front-end rendering, database management, and business logic.  |
+|[Meteor.Js](https://www.meteor.com/)| Meteor is one of the most popular JavaScript frameworks, which offers a lot of features for back-end development, front-end rendering, database management, and business logic.  |
+|[SailsJs](https://sailsjs.com/)	| Build practical, production-ready Node.js apps in a matter of weeks, not months.Sails is the most popular MVC framework for Node.js, designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails. |
+|[NuxtJs](https://nuxtjs.org/)	| Nuxt is a progressive framework based on Vue.js to create modern web applications.It is based on Vue.js official libraries (vue,vue-router and vuex) and powerful development tools (webpack, Babel and PostCSS).   |
+|[NestJs](https://nestjs.com/)	| A progressive Node.js framework for building efficient,scalable,and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8).  |
+|[Fastify](https://www.fastify.io/)	| Fast and low overhead web framework, for Node.js.  |
+
 
 ## Other Libraries
 
