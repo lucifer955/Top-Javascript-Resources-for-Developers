@@ -100,12 +100,12 @@
 ### Websites
 | Website | Description |
 | ------------- | ------------- |
-|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |
+|[Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) | JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops. |[JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/DEFAULT.asp) | The programming language for the Site is JavaScript. It is easy to learn JavaScript. From basic to advanced, this tutorial will teach you JavaScript step-by-step. |[JavaScript from basic to advance](https://www.tutorialspoint.com/javascript/index.htm) | JavaScript is a lightweight programming language that has been translated. It is designed for network-centric applications to be developed. It is complementary to Java and is integrated. Since it is combined with HTML, JavaScript is very simple to implement. It is cross-platform and accessible.|
 
 ### E-Books
 | E-Book Name | Description |
 | ------------- | ------------- |
-|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |
+|[JavaScript For Kids](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf) | A playful introduction to javascript programming. This E-Book for anyone who wants to learn Javascript or to start programming for the first time. You can learn js simple to complex from this book. It also cover programming basics. Happy coding :) |[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) | JavaScript Garden is a growing collection of documents on the JavaScript programming language's most unusual components. It provides advice that non-expert JavaScript programmers can encounter on their endeavors into the depths of the language to avoid common mistakes and subtle bugs, as well as performance problems and bad practices.|
 
 ## Contributors ✨
 
