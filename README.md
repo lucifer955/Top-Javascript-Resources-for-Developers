@@ -95,7 +95,7 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Math.js](https://mathjs.org/)	|Math.js is an extensive math library for JavaScript. Click [here](https://mathjs.org/docs/index.html) for documentation. |
-|[Algebra.js](https://algebra.js.org/)| Algebra.js is specially for build, display, and solve algebraic equations in JavaScript.Click [here](https://algebra.js.org/) for quick start guide.|
+ |[Algebra.js](https://algebra.js.org/)| Algebra.js is specially for build, display, and solve algebraic equations in JavaScript.Click [here](https://algebra.js.org/) for quick start guide.|
 |[BigInteger.js](https://github.com/peterolson/BigInteger.js/)|BigInteger.js is an arbitrary-length integer library for Javascript, allowing arithmetic operations on integers of unlimited size, notwithstanding memory and time limitations.Click [here](http://peterolson.github.com/BigInteger.js/BigInteger.min.js) for download.|
 |[mathjax-node](https://github.com/mathjax/MathJax-node)|MathJax is a JavaScript cross-browser library which uses MathML, LaTeX and ASCIIMathML markups to display mathematical notation in web browsers. MathJax is published under the Apache License as an open-source program.Click [here](https://docs.mathjax.org/en/v2.7-latest/advanced/mathjax-node.html) for documentation.|
 
