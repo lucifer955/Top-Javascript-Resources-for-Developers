@@ -44,7 +44,7 @@
 |[Aurelia](https://aurelia.io/) | Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps. |
 [Svelte](https://svelte.dev/)	| Svelte is a radical new approach to designing user interfaces. Whereas conventional frameworks like React and Vue do the bulk of their work in the browser, Svelte transfers the work to a compile phase the happens when you create your app. Instead of using strategies such as virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes. |
 |[Preact](https://preactjs.com/) | Preact offers the finest possible abstraction of Virtual DOM at the top of the DOM. Builds on stable platform functionality, registers real event handlers, and plays nicely with other libraries. Preact can be used directly in the browser without any transpiring steps. |
-
+|[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
 
 ### Frontend Frameworks for mobile application development
 
@@ -60,7 +60,6 @@
 | Website | Description |
 | ------------- | ------------- |
 |[Express](https://expressjs.com/)	| Express is one of the top back-end frameworks for JavaScript coding. It is fast and minimalist and is used for building APIs and web applications |
-|[Next.js](https://nextjs.org/) |  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed. |
 |[Koa](https://koajs.com/)	| Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.  |
 |[Meteor.Js](https://www.meteor.com/)| Meteor is one of the most popular JavaScript frameworks, which offers a lot of features for back-end development, front-end rendering, database management, and business logic.  |
 |[SailsJs](https://sailsjs.com/)	| Build practical, production-ready Node.js apps in a matter of weeks, not months.Sails is the most popular MVC framework for Node.js, designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails. |
